@@ -1,0 +1,8 @@
+{
+    "nome": "John Doe",
+    "email": "johndoe@example.com",
+    "idade": 30,
+    "ativo": true,
+    "cores": ["vermelho", "azul", "verde"]
+  }
+  
